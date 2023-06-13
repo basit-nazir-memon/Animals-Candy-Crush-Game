@@ -1,5 +1,3 @@
-Apologies for the oversight. The updated readme file with your email address is as follows:
-
 # Animals Candy Crush Game
 
 The Animals Candy Crush Game is a fun and addictive game implemented in C++ using the SFML library. In this game, players match colorful animal candies to clear levels and achieve high scores. The game features engaging graphics, animations, and sound effects to enhance the gaming experience.
