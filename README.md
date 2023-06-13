@@ -16,7 +16,7 @@ The Animals Candy Crush Game is a fun and addictive game implemented in C++ usin
 
 Before running the game, make sure you have the following installed:
 
-- Visual Studio IDE (version XXX or later)
+- Visual Studio IDE (2019 or later)
 - SFML library (version 2.5 or later)
 - Arial.ttf font file
 
